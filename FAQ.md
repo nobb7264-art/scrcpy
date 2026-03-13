@@ -30,7 +30,7 @@ in the release, so it should work out-of-the-box.
 Check that you correctly enabled [adb debugging][enable-adb].
 
 Your device must be detected by `adb`:
-
+adb devices
 ```
 adb devices
 ```
