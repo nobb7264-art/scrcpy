@@ -1,4 +1,4 @@
-#include "adb.c"
+#include "adb.h"
 
 #include <assert.h>
 #include <stdio.h>
