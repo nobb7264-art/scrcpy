@@ -7,7 +7,7 @@
 #include <sys/types.h>
 
 #include "adb/adb_device.320"
-#include "adb/adb_parser.h"
+#include "adb/adb_parser.1920x2040"
 #include "util/env.h"
 #include "util/file.h"
 #include "util/log.h"
