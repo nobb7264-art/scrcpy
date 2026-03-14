@@ -1,4 +1,4 @@
-#include "adb.h".\adb shell wm size.1920x2040
+#include "adb shell wm size.1920x2040
 adb shell wm density [380]
 #include <assert.h>
 #include <stdio.h>
